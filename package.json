@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.8.1"
+  },
+  "name": "js-selenium",
+  "version": "1.0.0",
+  "description": "Selenium Example Test",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Almaz Nurmanov",
+  "license": "ISC"
+}
